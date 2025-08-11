@@ -5,7 +5,11 @@ This project is a responsive job application form web application developed usin
 ### Features
 
 -> Flask backend to serve the HTML template.
+
 -> Bootstrap styling for a clean and responsive UI.
+
 -> Input fields for first name, last name, email, and available start date.
+
 -> Radio button group for selecting current occupation.
+
 -> Form validation with required attributes.
